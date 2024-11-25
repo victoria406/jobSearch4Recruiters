@@ -13,11 +13,6 @@ This project provides an interactive dashboard to track job applications, visual
 ### Sankey Diagram
 ![Sankey Diagram](sankey_diagram.png)
 
-### Application Trends Over Time
-*(Include example image here, e.g., trends_over_time.png)*
-
-### Outcome Distribution
-*(Include example image here, e.g., outcome_distribution.png)*
 
 ## How to Run the Dashboard
 1. Clone this repository:
